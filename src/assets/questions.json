@@ -1,0 +1,82 @@
+{
+    "0":{
+        "pageIndex": 0,
+        "pageContent": {
+            "question": "What's the capital of Russia?",
+            "options": ["Moscow", "Stalingrad", "Saint Petersburg", "Berlin"],
+            "correctAnswers": [true, false, false, false]
+        }
+    },
+    "1":{
+        "pageIndex": 1,
+        "pageContent": {
+            "question": "Which of these countries don't exist anymore?",
+            "options": ["Yugoslavia", "Vietnam", "Persia", "Kiribati"],
+            "correctAnswers": [true, false, true, false]
+        }
+    },
+    "2":{
+        "pageIndex": 2,
+        "pageContent": {
+            "question": "Which of these countries were involved in the 7 year war?",
+            "options": ["Prussia", "France", "British Empire", "United States"],
+            "correctAnswers": [true, true, true, false]
+        }
+    },
+    "3":{
+        "pageIndex": 3,
+        "pageContent": {
+            "question": "Which of these countries never bordered France?",
+            "options": ["Brazil", "England", "Austria", "Serbia"],
+            "correctAnswers": [false, false, false, true]
+        }
+    },
+    "4":{
+        "pageIndex": 4,
+        "pageContent": {
+            "question": "Which one of the following leaders killed less than 10 million people?",
+            "options": ["Leopold II", "Adolf Hitler", "Joseph Stalin", "Mao Zedong"],
+            "correctAnswers": [false, false, false, false]
+        }
+    },
+    "5":{
+        "pageIndex": 5,
+        "pageContent": {
+            "question": "Which of these countries possess/possessed nuclear warheads?",
+            "options": ["South Africa", "Pakistan", "Iran", "Japan"],
+            "correctAnswers": [true, true, false, false]
+        }
+    },
+    "6":{
+        "pageIndex": 6,
+        "pageContent": {
+            "question": "Which of these campaigns did not play a role in WWII?",
+            "options": ["Operation Sealion", "Operation Barbossa", "D-Day", "Abyssinian War"],
+            "correctAnswers": [true, false, false, true]
+        }
+    },
+    "7":{
+        "pageIndex": 7,
+        "pageContent": {
+            "question": "In what centuries did the Sengoku peroid take place?",
+            "options": ["15th and 16th Century", "14th to 17th Century", "-3000 BCE", "18th and 19th"],
+            "correctAnswers": [true, false, false, false]
+        }
+    },
+    "8":{
+        "pageIndex": 8,
+        "pageContent": {
+            "question": "Which of these persons are associated with the Ottoman Empire?",
+            "options": ["Mehmed VI", "Osman I", "Abdulmejid II", "Selim I"],
+            "correctAnswers": [true, true, true, true]
+        }
+    },
+    "9":{
+        "pageIndex": 9,
+        "pageContent": {
+            "question": "Find the real diseases outbreaks.",
+            "options": ["Tiger's syndrome", "Bubonic plague", "Latin pathogen", "Spanish flu"],
+            "correctAnswers": [false, true, false, true]
+        }
+    }
+}

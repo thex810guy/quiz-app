@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+.glass {
+    background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+/* From https://css.glass */
+background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 3px solid rgba(255, 255, 255, 0.3);
+}
+
+button {
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    @apply bg-blue-300 px-8;
+    cursor: pointer;
+    transition: border-color 0.25s;
+  }
+  button:hover {
+    @apply transition-opacity opacity-90;
+  }
+  button:active {
+    @apply transition-colors bg-blue-500;
+  }
+
+
+.answer-button {
+    @apply bg-blue-100 w-full text-start;
+}
+
+.selected-answer-button {
+    @apply bg-blue-300 w-full text-start;
+}
+
+.green-button {
+  @apply bg-green-300 w-full text-start;
+}
+
+.red-button {
+  @apply bg-red-300 w-full text-start;
+}
